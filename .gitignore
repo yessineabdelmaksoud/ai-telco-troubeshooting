@@ -1,1 +1,3 @@
 models/qwen1.5b-lora-telco-opt
+models/qwen1.5b-lora-telco-opt-masked/checkpoint-200
+models/qwen1.5b-lora-telco-opt-masked/checkpoint-204
